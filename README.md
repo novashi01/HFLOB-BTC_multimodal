@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multimodal Deep Learning for BTC Limit Order Book Data
 
 ## Overview
@@ -97,3 +98,7 @@ If you use this code or find the research helpful, please cite:
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+=======
+# HFLOB-BTC_multimodal
+This repository contains the implementation of the **Hybrid Fusion with Limit Order Book (HFLOB)** model
+>>>>>>> master/main
